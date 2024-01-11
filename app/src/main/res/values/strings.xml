@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuickShop</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_list_mercado">ListMercadoActivity</string>
+    <string name="title_activity_conta_menu">ContaMenu</string>
+    <string name="title_activity_list_farmacia">ListFarmaciaActivity</string>
+    <string name="title_activity_list_frutas_verduras">ListFrutasVerdurasActivity</string>
+</resources>
